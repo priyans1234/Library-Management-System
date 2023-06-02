@@ -1,0 +1,23 @@
+.home {
+    text-align: center;
+    padding: 50px;
+    background-color: #666e4d;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #e3dbdb;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #f4b6e3;
+  }
+  .categories{
+text-align: center;
+background-color:  #da8094;
+color: white;
+
+  }
+  
